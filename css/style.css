@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.my-world{
+    color: black;
+    padding: 10px;
+    margin: 10px;
+
+}
+.my-world h1{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.my-work{
+    color:black;
+    padding: 20px;
+    }
+.my-work h2{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+a{
+    text-decoration: underline;
+    color: darkblue
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: darkred;
+}
+.img{
+    margin:10px;
+    border: 1px solid red;
+    display: block;
+    margin: 10 auto;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.category ul{
+    color: black;
+    padding: 20px;
+    border: 1px solid black;
+    align-content: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.category li{
+    list-style: circle;
+    font-size: 20px;
+    border-bottom: dotted;
+}
+.category h4{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+    }
+    #sidebar{
+        padding: 20px;
+        margin-top: 20px;
+        font-size: medium;
+        font-style: normal;
+        background-color: black;
+        color: white;
+        margin-bottom: 200px;
+
+    }
+    .lastpage{
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-bottom: 1opx;
+    padding: 10px;
+}
